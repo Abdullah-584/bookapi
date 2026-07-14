@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Eloquent JavaScript, Third Edition",
+    "author": "Marijn Haverbeke",
+    "tag": "classic"
+  },
+  {
+    "id": 2,
+    "title": "Practical Modern JavaScript",
+    "author": "Nicolás Bevacqua",
+    "tag": "classic"
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "tag": "classic"
+  },
+  {
+    "id": 4,
+    "title": "Node.js Complete Guide",
+    "author": "Muhammad Abdullah",
+    "tag": "Programming"
+  }
+]
